@@ -6,7 +6,7 @@ function App() {
   return (
     <div>
       <Table />
-      <footer>Made with love ❤️</footer>
+      <footer>Best of luck for your upcoming placements ❤️</footer>
     </div>
   );
 }
