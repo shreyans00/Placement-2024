@@ -72,7 +72,7 @@ const App = () => {
   };
 
   return (
-    <div className="App container">
+    <div className="App container" id="results-container">
       <h1 className="my-4">Placement Data of IIT Kharagpur '24</h1>
 
       <div id="sort-container" className="d-flex mb-3">
